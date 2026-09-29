@@ -1,7 +1,5 @@
 # ✨ PeaZip
 
-**Project Name:** `PeaZip-File-Archiver`
-
 <p align="center">
   <img src="https://cdn.iguru.gr/wp-content/uploads/2023/05/peazip.jpg" alt="PeaZip" width="600">
 </p>
