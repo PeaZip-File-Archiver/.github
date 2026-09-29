@@ -1,12 +1,13 @@
 # ✨ PeaZip
 
+**Project Name:** `PeaZip-File-Archiver`
 
 <p align="center">
   <img src="https://cdn.iguru.gr/wp-content/uploads/2023/05/peazip.jpg" alt="PeaZip" width="600">
 </p>
 
 <p align="center">
-  <strong>Free and open-source file archiver and compression utility for managing archives and files.</strong>
+  <strong>Open-source file archiver and compression utility for managing archives and files.</strong>
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
 
 ## 📖 Project Overview
 
-**PeaZip** is a free and open-source file archiver designed for creating, opening, extracting, managing, and converting archive files.
+**PeaZip** is an open-source file archiver designed for creating, opening, extracting, managing, and converting archive files.
 
 The application provides a graphical interface for working with compressed files while also offering encryption, file management, archive conversion, integrity verification, and advanced compression options.
 
@@ -43,7 +44,7 @@ PeaZip supports a broad selection of archive formats and provides a practical wo
 * Extract complete archives or selected items.
 * Choose custom extraction locations.
 * Preview archive contents before extraction.
-* Handle multiple archives through batch operations.
+* Process multiple archives through batch operations.
 
 ### 🗜️ Compression
 
@@ -55,7 +56,7 @@ PeaZip supports a broad selection of archive formats and provides a practical wo
 ### 🔐 Encryption & Security
 
 * Protect supported archives with passwords.
-* Use strong encryption options provided by compatible archive formats.
+* Use encryption options provided by compatible archive formats.
 * Secure sensitive files before storage or transfer.
 * Manage encrypted archive contents through the application interface.
 
@@ -145,7 +146,7 @@ PeaZip provides builds for supported desktop environments, including:
 
 ### File Systems
 
-PeaZip can operate with files and folders available through the supported operating system and file system environment.
+PeaZip can operate with files and folders available through the supported operating system and file-system environment.
 
 ### Archive Compatibility
 
